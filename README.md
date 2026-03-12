@@ -14,11 +14,11 @@ A federated community platform built with **Rust** and **ActivityPub**.
 
 ## Features
 
-- 🌐 **ActivityPub federation** — Actor, Inbox, Outbox, WebFinger
-- 🔐 **Native ES256K signing** — secp256k1 ECDSA, no JVM required
-- 💬 **Servers & Channels** — Discord-style community spaces
-- 📩 **Direct Messages** — Private conversations between users
-- ⚡ **Async Rust** — Tokio + Axum for high-performance HTTP
+-  **ActivityPub federation** — Actor, Inbox, Outbox, WebFinger
+-  **Native ES256K signing** — secp256k1 ECDSA, no JVM required
+-  **Servers & Channels** — Discord-style community spaces
+-  **Direct Messages** — Private conversations between users
+-  **Async Rust** — Tokio + Axum for high-performance HTTP
 
 ## Getting Started
 
